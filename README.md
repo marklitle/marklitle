@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning in finance
 - 🌱 I’m currently learning spacy
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mzhq1982@163.com
+- 📫 How to reach me 
 
 <!---
 marklitle/marklitle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
